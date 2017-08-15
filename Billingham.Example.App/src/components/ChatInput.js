@@ -22,7 +22,9 @@ class ChatInput extends React.Component {
             <button className="button is-primary">Submit</button>
           </div>
         </div>
+
       </div>
+
     );
   }
 }
