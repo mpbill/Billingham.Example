@@ -4,6 +4,21 @@
   width: 100%;
   background-color: #00b89c;
   display: flex;
+  flex-direction: column;
+}
+
+.bhm-footer-chevron-wrapper{
+  display: flex;
   align-items: center;
   justify-content: center;
+}
+.bhm-footer-hidden{
+}
+
+
+.bhm-hidden{
+  display: none;
+}
+.bhm-chat-input{
+  padding-bottom: 10px;
 }
