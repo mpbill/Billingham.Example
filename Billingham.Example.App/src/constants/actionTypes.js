@@ -1,2 +1,5 @@
 export const LOG_IN="LOG_IN";
-export const USER_INPUT="USER_INPUT";
+export const USER_INPUT_MESSAGE="USER_INPUT_MESSAGE";
+export const USER_INPUT_NAME="USER_INPUT_NAME";
+export const TOGGLE_FLYUP="TOGGLE_FLYUP";
+export const SUBMIT_MESSAGE="SUBMIT_MESSAGE";
